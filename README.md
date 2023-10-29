@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Aryan, a sophomore at Ashoka University, majoring in Computer Science with a minor in Mathematics.
+
+- 🔭 I’m currently working in ML and Security Research.
+- 👯 Also interested in Applied Cryptography and Number Theory
+- 📫 Just drop me an email at <aryan.nath_ug25@ashoka.edu.in>
+- 😄 Pronouns: he/him
