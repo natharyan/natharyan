@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Aryan, a sophomore at Ashoka University, majoring in Computer Science with a minor in Mathematics.
+## <picture><img src = "./assets/about_me.gif" width = 50px></picture> **Hi, I'm Aryan**
+I am a sophomore at Ashoka University, majoring in Computer Science with a minor in Mathematics.
 
 - 🔭 I’m currently working in ML and Security Research.
 - 👯 Also interested in Applied Cryptography and Number Theory
