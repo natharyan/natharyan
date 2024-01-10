@@ -19,11 +19,7 @@ I am a sophomore at Ashoka University, majoring in Computer Science with a minor
 - 👯 Also interested in Applied Cryptography and Number Theory
 - 📫 Just drop me an email at <aryan.nath_ug25@ashoka.edu.in>
 - 😄 Pronouns: he/him
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
+  
 <div align="center">
 
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=natharyan&show_icons=true&theme=transparent)
