@@ -17,11 +17,10 @@ I am a sophomore at Ashoka University, majoring in Computer Science with a minor
 
 - 🔭 I’m currently working in ML and Security Research.
 - 🌱 I’m currently learning Applied Cryptography and Number Theory
-<!-- - 👯 Also interested in Applied Cryptography and Number Theory -->
 - 🤔 I’m looking for help with research in Applied Cryptography and Network Security
 - 📫 How to reach me: <aryan.nath_ug25@ashoka.edu.in>
 - 😄 Pronouns: he/him
-
+<!-- - 👯 Also interested in Applied Cryptography and Number Theory -->
 ## ⚡ Technologies
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
