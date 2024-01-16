@@ -42,8 +42,8 @@ I am a sophomore at Ashoka University, majoring in Computer Science with a minor
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-<div align="center">
+<!-- <div align="center">
 
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=natharyan&show_icons=true&theme=transparent)
 
-</div>
+</div> -->
