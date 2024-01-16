@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- <picture><img src = "./assets/about_me.gif" width = 50px></picture> -->
-##**Hi, I'm Aryan**
+## **Hi, I'm Aryan**
 I am a sophomore at Ashoka University, majoring in Computer Science with a minor in Mathematics.
 
 - 🔭 I’m currently working in ML and Security Research.
