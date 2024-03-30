@@ -29,6 +29,7 @@ I am a sophomore at Ashoka University, majoring in Computer Science with a minor
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-black?style=flat-square&logo=scikit-learn)
 
 <!-- <div align="center">
 
