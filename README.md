@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 I am a sophomore at Ashoka University, majoring in Computer Science with a minor in Mathematics.
 
 - 🔭 I’m currently working in ML and Security Research.
-- 🌱 I’m currently learning Applied Cryptography and Number Theory
-- 🤔 I’m looking for help with research in Applied Cryptography and Network Security
+- 🌱 I’m interested in exploring Cryptography and Number Theory.
 - 📫 How to reach me: <aryan.nath_ug25@ashoka.edu.in>
 - 😄 Pronouns: he/him
 <!-- - 👯 Also interested in Applied Cryptography and Number Theory -->
