@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my GitHub Repository that houses the codebases of all my projects. You can learn more about me on my [website](https://natharyan.github.io/).
+Welcome to my GitHub Repository that houses the codebases of all my projects. You can learn more about me on my [website](https://natharyan.github.io/) (to be updated).
 
 - 🏫 I am currently a senior at Ashoka University with a major in Computer Science and minor in Mathematics
-- 🔭 My research interests lie in Multi Party Computation and Zero-Knowledge Arguments
+- 🔭 My research interests lie in Multi Party Computation and Zero-Knowledge Arguments.
+- My undergraduate thesis is on post quantum secure proof generation for folding based IVC schemes that is feasible for low constraint hardware such as mobile phones.
 - ✉️ You can always reach me at <aryan.nath_ug25@ashoka.edu.in>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=natharyan&theme=dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
