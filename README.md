@@ -1,7 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
-**niranjanrajesh02/niranjanrajesh02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my GitHub Repository that houses the codebases of all my projects. You can learn more about me on my [website](https://natharyan.github.io/) (to be updated).
+Welcome to my GitHub Repository that houses the codebases of all my projects. You can learn more about me on my [website](https://natharyan.github.io/).
 
 - 🏫 I am currently a senior at Ashoka University with a major in Computer Science and minor in Mathematics.
 - 🔭 My research interests lie in Multi Party Computation and Zero-Knowledge Arguments.
