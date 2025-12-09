@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub Repository that houses the codebases of all my projects. You can learn more about me on my [website](https://natharyan.github.io/).
 
-- 🏫 I am currently a senior at Ashoka University with a major in Computer Science and minor in Mathematics.
-- 🔭 My research interests lie in Multi Party Computation and Zero-Knowledge Arguments.
-- My undergraduate thesis is on post quantum secure proof generation for folding based IVC schemes that is feasible for low constraint hardware such as mobile phones.
+- 🏫 I am currently a senior at Ashoka University with a major in Computer Science and a minor in Mathematics.
+- 🔭 My research interests lie in Zero-Knowledge Proofs and Secure Multi-Party Computation.
+- For my [undergraduate capstone project](https://drive.google.com/file/d/1XeG2tdSaH3koegEENaivMvmb9tooOTKg/view), I developed a privacy-preserving, post-quantum secure age-based proof scheme that I built on top of Aadhaar QR codes using the Arkworks library in Rust. My thesis will focus on identifying efficient zero-knowledge proof schemes based on post-quantum secure commitments that are practical and comparable with classical approaches.
 - ✉️ You can always reach me at <aryan.nath_ug25@ashoka.edu.in>.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=natharyan&theme=dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
